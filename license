@@ -1,0 +1,66 @@
+Asesinato Artificial — Novela Visual Interactiva
+Copyright (c) 2026 Florencio Pablo Corty Dane y Germán Juan Ribera (Grupo 25)
+
+==============================================================================
+1. LICENCIA DE LA OBRA (CC BY-NC-ND 4.0 INTERNACIONAL)
+==============================================================================
+
+Esta obra y su distribución compilada están sujetas a la licencia Creative
+Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
+
+Usted es libre de:
+- Compartir: copiar y redistribuir el material en cualquier medio o formato,
+  exclusivamente para su ejecución, evaluación académica y uso personal.
+
+Bajo los siguientes términos:
+- Atribución (BY): Usted debe dar crédito de manera adecuada a los autores
+  originales (Florencio Pablo Corty Dane y Germán Juan Ribera), brindar un
+  enlace a la licencia e indicar si se han realizado cambios.
+- NoComercial (NC): Usted no puede hacer uso del material con propósitos
+  comerciales.
+- SinDerivadas (ND): Si usted mezcla, transforma o crea nuevo material a
+  partir de esta obra, usted no podrá distribuir el material modificado.
+- No hay restricciones adicionales: Usted no puede aplicar términos legales
+  ni medidas tecnológicas que restrinjan legalmente a otras personas a hacer
+  cualquier uso permitido por la licencia.
+
+==============================================================================
+2. ACTIVOS MULTIMEDIA Y COMPONENTES DE TERCEROS (EXCLUSIONES)
+==============================================================================
+
+Los siguientes componentes incluidos dentro del paquete compilado se rigen por
+sus propias licencias de origen y quedan excluidos de redistribución por
+separado:
+
+1. Música y Efectos de Sonido (SFX):
+   - Origen: Epidemic Sound (https://www.epidemicsound.com/).
+   - Licencia: Licencia Comercial "Creator".
+   - Restricción: Queda prohibida la extracción, descompilación o
+     redistribución de las pistas de audio como archivos independientes fuera
+     de esta obra ejecutable.
+
+2. Recursos Gráficos e Ilustraciones:
+   - Origen: Generados mediante Leonardo.ai (Modelos Lucid y Nano Banana 2.1).
+   - Licencia: Licencia Comercial "Pro".
+
+3. Motor de Ejecución (Ren'Py SDK):
+   - El motor Ren'Py y sus librerías asociadas se distribuyen bajo la licencia
+     MIT / LGPL correspondiente a sus respectivos autores (ver archivo
+     renpy/LICENSE.txt incluido en los paquetes compilados).
+
+==============================================================================
+3. TEXTO LEGAL COMPLETO
+==============================================================================
+
+El texto legal íntegro de la licencia Creative Commons Atribución-NoComercial-
+SinDerivadas 4.0 Internacional puede consultarse en:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+LA OBRA SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO. EN NINGÚN CASO LOS
+AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN,
+DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O
+CUALQUIER OTRO MOTIVO, QUE SURJA DE O EN CONEXIÓN CON LA OBRA O EL USO U OTRO
+TIPO DE ACCIONES EN LA OBRA.
